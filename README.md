@@ -24,3 +24,7 @@ It allows users to create strong and secure passwords with customizable options.
 - JavaScript
 
 ---
+
+## 🌐 Deployed 
+
+https://onkarkambale.github.io/password-generator/
